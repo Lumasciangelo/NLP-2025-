@@ -50,3 +50,18 @@ Se realizó una limpieza exhaustiva para descartar archivos irrelevantes o con e
 - **ChromaDB** (almacenamiento vectorial)
 - **NLTK / spaCy** (procesamiento de texto)
 - **Pandas / NumPy** (manejo de datos)
+
+---
+
+## 📊 Resultados
+El sistema puede responder preguntas sobre el reglamento, estrategias y detalles del juego.
+
+El agente inteligente ejecuta búsquedas y análisis de forma autónoma utilizando las tools implementadas.
+
+El RAG devuelve respuestas más precisas que un modelo sin recuperación contextual.
+
+---
+## ✨ Autor
+**Lucía Masciángelo**
+T.U.I.A - FCEIA - UNR
+2025
